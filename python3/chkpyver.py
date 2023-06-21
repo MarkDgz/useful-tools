@@ -1,4 +1,5 @@
 # By Mark Dgz 2023-06-20 
+# Target: Check python if some version is installed and wich are installed and the intalled Path too.
 # run sample: python3 chkpyver.py 3.6.0
 import sys
 
