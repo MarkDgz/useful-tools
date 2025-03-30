@@ -1,4 +1,4 @@
-# useful-tools
+# Useful-tools
 A simple, practical tools repository full stack (Java, Python, Rust, and SH scripts) 
 
 ## Target: Share a quick coding demo repository into different languages,  as a versatility and showing following skills:
