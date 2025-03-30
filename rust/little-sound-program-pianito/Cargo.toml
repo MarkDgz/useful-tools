@@ -1,0 +1,7 @@
+[package]
+name = "pianito"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cpal = "0.15.3"  # versión actual, revisa en crates.io por si hay una más reciente
